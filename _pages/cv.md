@@ -24,7 +24,7 @@ Skills
   * Matlab
   * Mathematica
   * VSCode
-  * Jupyter Noteook
+  * Jupyter Notebook
 * Programming Language
   * Python
   * C++
